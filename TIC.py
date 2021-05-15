@@ -3,7 +3,7 @@ def tic():
     t.speed(100)
     t.title('TIC TAC TOE')
     t.hideturtle()
-    import gsq as a;
+    import square_draw as a;
     def grid():
         t.pencolor('red')
         t.pensize(8);
